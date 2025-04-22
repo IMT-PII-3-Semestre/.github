@@ -1,4 +1,4 @@
-# Bem-vindo à Organização IMT-PII-3-Semestre! 👋
+# Bem-vindo à Organização IMT-PII-3-Semestre!
 
 Esta organização abriga o projeto desenvolvido pelos alunos do 3º semestre do curso de Ciências da Computação do **Instituto Mauá de Tecnologia (IMT)**, como parte do Projeto Interdisciplinar Integrador (PII).
 
@@ -10,13 +10,13 @@ Esta organização abriga o projeto desenvolvido pelos alunos do 3º semestre do
     -   Thiago Arevolo De Azevedo – RA: 23.01294-3 
 
 
-## 🚀 Projeto em Destaque: Chatbot Poliedro
+## Projeto em Destaque: Chatbot Poliedro
 
 Nosso projeto é o **[chatbot-poliedro](https://github.com/IMT-PII-3-Semestre/chatbot-poliedro)**.
 
 Este sistema visa otimizar o atendimento nos restaurantes das escolas Poliedro, utilizando inteligência artificial (LLMs locais via Ollama) para receber pedidos e um sistema KDS (Kitchen Display System) integrado para a cozinha. O objetivo é reduzir filas e melhorar a comunicação e a experiência geral.
 
-## 🎯 Nosso Foco
+## Nosso Foco
 
 Buscamos aplicar os conhecimentos adquiridos em sala de aula para criar soluções práticas e inovadoras, explorando tecnologias como:
 
@@ -24,7 +24,7 @@ Buscamos aplicar os conhecimentos adquiridos em sala de aula para criar soluçõ
 *   Inteligência Artificial (LLMs)
 *   Metodologias Ágeis (Scrum)
 
-## 🤝 Colaboração
+## Colaboração
 
 Este é um esforço colaborativo dos alunos listados no repositório do projeto, com o apoio do Instituto Mauá de Tecnologia e em parceria com o Sistema de Ensino Poliedro.
 
